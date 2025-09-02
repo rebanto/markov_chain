@@ -9,7 +9,7 @@ graph = {
 
 # params for markov chain
 state = 'A'
-steps = 2
+steps = 1000
 
 states = [state] # list to store the states through the steps
 
